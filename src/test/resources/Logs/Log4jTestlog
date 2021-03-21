@@ -1,0 +1,353 @@
+2021-03-21 11:47:45,617 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 11:47:45,624 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 11:47:45,625 INFO b.TestBase [main] File load  successfully
+2021-03-21 11:47:45,630 INFO b.TestBase [main] File found properties successfully
+2021-03-21 11:47:45,630 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 11:47:47,225 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 11:47:48,404 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:47:49,004 INFO b.TestBase [main] $$$$$$$$$$$$$$$$$$$$$$$$$ Ending Execution testCase $$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-03-21 11:48:53,794 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 11:48:53,797 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 11:48:53,797 INFO b.TestBase [main] File load  successfully
+2021-03-21 11:48:53,798 INFO b.TestBase [main] File found properties successfully
+2021-03-21 11:48:53,798 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 11:48:55,433 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 11:48:55,903 INFO b.TestBase [main] $$$$$$$$$$$$$$$$$$$$$$$$$ Ending Execution testCase $$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-03-21 11:49:37,030 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 11:49:37,033 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 11:49:37,033 INFO b.TestBase [main] File load  successfully
+2021-03-21 11:49:37,033 INFO b.TestBase [main] File found properties successfully
+2021-03-21 11:49:37,033 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 11:49:38,728 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 11:49:40,333 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:49:50,957 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:49:50,966 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:49:51,102 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 5000 value
+2021-03-21 11:49:51,213 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 500 value
+2021-03-21 11:49:51,326 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 50 value
+2021-03-21 11:49:51,381 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:49:51,490 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 1.25 value
+2021-03-21 11:49:51,592 INFO b.TestBase [main] daily was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:49:51,706 INFO b.TestBase [main] entering a textafterYear_XPATH Element 3 value
+2021-03-21 11:49:51,820 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 15 value
+2021-03-21 11:49:51,933 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 2.25 value
+2021-03-21 11:49:52,505 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:49:54,519 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:49:54,747 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:49:54,748 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:49:54,748 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:49:54,748 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:49:54,748 INFO b.TestBase [main] captured is Converted to double format = 8506.22
+2021-03-21 11:49:54,749 INFO b.TestBase [main] Expected is Converted to double format = 8506.22
+2021-03-21 11:49:54,749 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:49:54,963 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:50:05,300 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:50:05,309 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:50:05,432 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 10000 value
+2021-03-21 11:50:05,557 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 1500 value
+2021-03-21 11:50:05,678 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 150 value
+2021-03-21 11:50:05,735 INFO b.TestBase [main] clicking contributeAtTheBeginning_XPATH Element
+2021-03-21 11:50:05,859 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 1.75 value
+2021-03-21 11:50:05,942 INFO b.TestBase [main] weekly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:50:06,057 INFO b.TestBase [main] entering a textafterYear_XPATH Element 5 value
+2021-03-21 11:50:06,177 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 17 value
+2021-03-21 11:50:06,299 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 2.5 value
+2021-03-21 11:50:06,682 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:50:08,694 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:50:08,762 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:50:08,762 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:50:08,763 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:50:08,763 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:50:08,763 INFO b.TestBase [main] captured is Converted to double format = 27929.42
+2021-03-21 11:50:08,763 INFO b.TestBase [main] Expected is Converted to double format = 27929.42
+2021-03-21 11:50:08,763 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:50:08,988 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:50:19,285 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:50:19,292 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:50:19,405 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 15000 value
+2021-03-21 11:50:19,523 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 2500 value
+2021-03-21 11:50:19,636 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 250 value
+2021-03-21 11:50:19,692 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:50:19,836 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 2.25 value
+2021-03-21 11:50:19,936 INFO b.TestBase [main] biweekly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:50:20,060 INFO b.TestBase [main] entering a textafterYear_XPATH Element 7 value
+2021-03-21 11:50:20,171 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 19 value
+2021-03-21 11:50:20,299 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 2.75 value
+2021-03-21 11:50:20,668 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:50:22,677 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:50:22,745 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:50:22,746 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:50:22,746 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:50:22,746 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:50:22,746 INFO b.TestBase [main] captured is Converted to double format = 57916.96
+2021-03-21 11:50:22,746 INFO b.TestBase [main] Expected is Converted to double format = 57916.96
+2021-03-21 11:50:22,746 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:50:22,902 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:50:33,225 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:50:33,233 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:50:33,353 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 20000 value
+2021-03-21 11:50:33,511 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 3500 value
+2021-03-21 11:50:33,644 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 350 value
+2021-03-21 11:50:33,700 INFO b.TestBase [main] clicking contributeAtTheBeginning_XPATH Element
+2021-03-21 11:50:33,816 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 2.75 value
+2021-03-21 11:50:33,885 INFO b.TestBase [main] semimonthly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:50:33,971 INFO b.TestBase [main] entering a textafterYear_XPATH Element 9 value
+2021-03-21 11:50:34,065 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 21 value
+2021-03-21 11:50:34,162 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 3 value
+2021-03-21 11:50:34,542 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:50:36,557 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:50:36,629 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:50:36,629 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:50:36,629 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:50:36,630 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:50:36,630 INFO b.TestBase [main] captured is Converted to double format = 101270.72
+2021-03-21 11:50:36,630 INFO b.TestBase [main] Expected is Converted to double format = 101270.72
+2021-03-21 11:50:36,630 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:50:36,809 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:50:47,083 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:50:47,090 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:50:47,168 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 25000 value
+2021-03-21 11:50:47,247 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 4500 value
+2021-03-21 11:50:47,324 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 450 value
+2021-03-21 11:50:47,370 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:50:47,451 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 3.25 value
+2021-03-21 11:50:47,519 INFO b.TestBase [main] monthly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:50:47,598 INFO b.TestBase [main] entering a textafterYear_XPATH Element 11 value
+2021-03-21 11:50:47,683 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 23 value
+2021-03-21 11:50:47,770 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 3.25 value
+2021-03-21 11:50:47,819 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:50:49,829 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:50:49,871 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:50:49,872 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:50:49,872 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:50:49,872 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:50:49,872 INFO b.TestBase [main] captured is Converted to double format = 56641.1
+2021-03-21 11:50:49,872 INFO b.TestBase [main] Expected is Converted to double format = 157477.89
+2021-03-21 11:50:49,872 ERROR b.TestBase [main] Captured Amount DOESNOT MATCH with Expected Amount.
+2021-03-21 11:50:50,747 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:51:01,091 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:51:01,096 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:51:01,210 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 30000 value
+2021-03-21 11:51:01,317 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 5500 value
+2021-03-21 11:51:01,434 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 550 value
+2021-03-21 11:51:01,493 INFO b.TestBase [main] clicking contributeAtTheBeginning_XPATH Element
+2021-03-21 11:51:01,607 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 3.75 value
+2021-03-21 11:51:01,689 INFO b.TestBase [main] quarterly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:51:01,803 INFO b.TestBase [main] entering a textafterYear_XPATH Element 13 value
+2021-03-21 11:51:01,912 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 25 value
+2021-03-21 11:51:02,035 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 3.5 value
+2021-03-21 11:51:02,399 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:51:04,413 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:51:04,474 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:51:04,474 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:51:04,474 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:51:04,474 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:51:04,474 INFO b.TestBase [main] captured is Converted to double format = 234258.26
+2021-03-21 11:51:04,474 INFO b.TestBase [main] Expected is Converted to double format = 234258.26
+2021-03-21 11:51:04,475 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:51:04,686 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:51:15,012 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:51:15,018 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:51:15,124 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 35000 value
+2021-03-21 11:51:15,231 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 6500 value
+2021-03-21 11:51:15,346 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 650 value
+2021-03-21 11:51:15,405 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:51:15,516 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 4.25 value
+2021-03-21 11:51:15,592 INFO b.TestBase [main] semiannually was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:51:15,694 INFO b.TestBase [main] entering a textafterYear_XPATH Element 15 value
+2021-03-21 11:51:15,800 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 27 value
+2021-03-21 11:51:15,919 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 3.75 value
+2021-03-21 11:51:16,302 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:51:18,308 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:51:18,372 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:51:18,373 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:51:18,373 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:51:18,373 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:51:18,373 INFO b.TestBase [main] captured is Converted to double format = 325861.43
+2021-03-21 11:51:18,373 INFO b.TestBase [main] Expected is Converted to double format = 325861.43
+2021-03-21 11:51:18,373 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:51:18,552 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:51:28,894 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:51:28,901 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:51:29,012 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 40000 value
+2021-03-21 11:51:29,116 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 7500 value
+2021-03-21 11:51:29,226 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 750 value
+2021-03-21 11:51:29,280 INFO b.TestBase [main] clicking contributeAtTheBeginning_XPATH Element
+2021-03-21 11:51:29,391 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 4.75 value
+2021-03-21 11:51:29,440 INFO b.TestBase [main] annually was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:51:29,546 INFO b.TestBase [main] entering a textafterYear_XPATH Element 17 value
+2021-03-21 11:51:29,655 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 29 value
+2021-03-21 11:51:29,763 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 4 value
+2021-03-21 11:51:30,146 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:51:32,157 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:51:32,259 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:51:32,260 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:51:32,260 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:51:32,260 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:51:32,260 INFO b.TestBase [main] captured is Converted to double format = 449269.61
+2021-03-21 11:51:32,260 INFO b.TestBase [main] Expected is Converted to double format = 449269.61
+2021-03-21 11:51:32,260 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:51:32,288 INFO b.TestBase [main] $$$$$$$$$$$$$$$$$$$$$$$$$ Ending Execution testCase $$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-03-21 11:53:10,157 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 11:53:10,159 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 11:53:10,159 INFO b.TestBase [main] File load  successfully
+2021-03-21 11:53:10,160 INFO b.TestBase [main] File found properties successfully
+2021-03-21 11:53:10,160 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 11:53:11,807 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 11:53:12,243 INFO b.TestBase [main] $$$$$$$$$$$$$$$$$$$$$$$$$ Ending Execution testCase $$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-03-21 11:53:38,703 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 11:53:38,706 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 11:53:38,706 INFO b.TestBase [main] File load  successfully
+2021-03-21 11:53:38,706 INFO b.TestBase [main] File found properties successfully
+2021-03-21 11:53:38,706 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 11:53:40,296 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 11:53:40,683 INFO b.TestBase [main] $$$$$$$$$$$$$$$$$$$$$$$$$ Ending Execution testCase $$$$$$$$$$$$$$$$$$$$$$$$$$
+2021-03-21 11:54:57,572 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 11:54:57,575 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 11:54:57,575 INFO b.TestBase [main] File load  successfully
+2021-03-21 11:54:57,575 INFO b.TestBase [main] File found properties successfully
+2021-03-21 11:54:57,575 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 11:54:59,187 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 11:55:00,796 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:55:11,533 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:55:11,546 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:55:11,712 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 5000 value
+2021-03-21 11:55:11,842 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 500 value
+2021-03-21 11:55:11,963 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 50 value
+2021-03-21 11:55:12,026 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:55:12,162 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 1.25 value
+2021-03-21 11:55:12,268 INFO b.TestBase [main] daily was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:55:12,412 INFO b.TestBase [main] entering a textafterYear_XPATH Element 3 value
+2021-03-21 11:55:12,543 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 15 value
+2021-03-21 11:55:12,681 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 2.25 value
+2021-03-21 11:55:13,239 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:55:15,248 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:55:15,326 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:55:15,326 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:55:15,326 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:55:15,326 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:55:15,327 INFO b.TestBase [main] captured is Converted to double format = 8506.22
+2021-03-21 11:55:15,327 INFO b.TestBase [main] Expected is Converted to double format = 8506.22
+2021-03-21 11:55:15,327 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:55:15,505 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:55:25,864 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:55:25,871 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:55:25,988 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 10000 value
+2021-03-21 11:55:26,115 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 1500 value
+2021-03-21 11:55:26,247 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 150 value
+2021-03-21 11:55:26,321 INFO b.TestBase [main] clicking contributeAtTheBeginning_XPATH Element
+2021-03-21 11:55:26,447 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 1.75 value
+2021-03-21 11:55:26,560 INFO b.TestBase [main] weekly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:55:26,684 INFO b.TestBase [main] entering a textafterYear_XPATH Element 5 value
+2021-03-21 11:55:26,815 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 17 value
+2021-03-21 11:55:26,953 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 2.5 value
+2021-03-21 11:55:27,312 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:55:29,322 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:55:29,387 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:55:29,388 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:55:29,388 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:55:29,388 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:55:29,388 INFO b.TestBase [main] captured is Converted to double format = 27929.42
+2021-03-21 11:55:29,388 INFO b.TestBase [main] Expected is Converted to double format = 27929.42
+2021-03-21 11:55:29,388 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:55:29,584 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:55:39,936 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:55:39,944 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:55:40,048 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 15000 value
+2021-03-21 11:55:40,159 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 2500 value
+2021-03-21 11:55:40,266 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 250 value
+2021-03-21 11:55:40,320 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:55:40,446 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 2.25 value
+2021-03-21 11:55:40,545 INFO b.TestBase [main] biweekly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:55:40,665 INFO b.TestBase [main] entering a textafterYear_XPATH Element 7 value
+2021-03-21 11:55:40,771 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 19 value
+2021-03-21 11:55:40,876 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 2.75 value
+2021-03-21 11:55:41,234 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:55:43,235 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:55:43,514 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:55:43,514 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:55:43,514 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:55:43,514 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:55:43,514 INFO b.TestBase [main] captured is Converted to double format = 57916.96
+2021-03-21 11:55:43,514 INFO b.TestBase [main] Expected is Converted to double format = 57916.96
+2021-03-21 11:55:43,515 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:55:43,640 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:55:53,967 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:55:53,975 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:55:54,088 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 20000 value
+2021-03-21 11:55:54,198 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 3500 value
+2021-03-21 11:55:54,311 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 350 value
+2021-03-21 11:55:54,368 INFO b.TestBase [main] clicking contributeAtTheBeginning_XPATH Element
+2021-03-21 11:55:54,476 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 2.75 value
+2021-03-21 11:55:54,556 INFO b.TestBase [main] semimonthly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:55:54,663 INFO b.TestBase [main] entering a textafterYear_XPATH Element 9 value
+2021-03-21 11:55:54,778 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 21 value
+2021-03-21 11:55:54,884 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 3 value
+2021-03-21 11:55:55,298 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:55:57,309 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:55:57,418 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:55:57,418 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:55:57,418 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:55:57,418 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:55:57,418 INFO b.TestBase [main] captured is Converted to double format = 101270.72
+2021-03-21 11:55:57,418 INFO b.TestBase [main] Expected is Converted to double format = 101270.72
+2021-03-21 11:55:57,419 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:55:57,550 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:56:07,880 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:56:07,889 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:56:08,000 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 25000 value
+2021-03-21 11:56:08,105 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 4500 value
+2021-03-21 11:56:08,218 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 450 value
+2021-03-21 11:56:08,274 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:56:08,383 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 3.25 value
+2021-03-21 11:56:08,465 INFO b.TestBase [main] monthly was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:56:08,569 INFO b.TestBase [main] entering a textafterYear_XPATH Element 11 value
+2021-03-21 11:56:08,672 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 23 value
+2021-03-21 11:56:08,793 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 3.25 value
+2021-03-21 11:56:09,182 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:56:11,194 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 11:56:11,260 INFO b.TestBase [main] Text Captured from EndBalance_XPATH Element
+2021-03-21 11:56:11,260 INFO b.TestBase [main] Removing $....................
+2021-03-21 11:56:11,260 INFO b.TestBase [main] Removing ,....................
+2021-03-21 11:56:11,260 INFO b.TestBase [main] Converting done..............
+2021-03-21 11:56:11,260 INFO b.TestBase [main] captured is Converted to double format = 157477.89
+2021-03-21 11:56:11,261 INFO b.TestBase [main] Expected is Converted to double format = 157477.89
+2021-03-21 11:56:11,261 INFO b.TestBase [main] Captured Amount MATCH's with Expected Amount.
+2021-03-21 11:56:11,378 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:56:21,741 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 11:56:21,745 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 11:56:21,745 INFO b.TestBase [main] File load  successfully
+2021-03-21 11:56:21,745 INFO b.TestBase [main] File found properties successfully
+2021-03-21 11:56:21,745 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 11:56:23,486 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 11:56:25,106 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 11:56:35,921 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 11:56:35,930 INFO b.TestBase [main]  Title retrived.Actual page title: <b>Interest Calculator</b> is equal to Expected page title.
+2021-03-21 11:56:36,069 INFO b.TestBase [main] entering a textstartingPrincipal_XPATH Element 5000 value
+2021-03-21 11:56:36,195 INFO b.TestBase [main] entering a textannualContribution_XPATH Element 500 value
+2021-03-21 11:56:36,327 INFO b.TestBase [main] entering a textmonthlyContribution_XPATH Element 50 value
+2021-03-21 11:56:36,391 INFO b.TestBase [main] clicking contributeAtTheEnd_XPATH Element
+2021-03-21 11:56:36,522 INFO b.TestBase [main] entering a textinterestRate_XPATH Element 1.25 value
+2021-03-21 11:56:36,625 INFO b.TestBase [main] daily was Slecected from compunded_XPATH Drop Down
+2021-03-21 11:56:36,747 INFO b.TestBase [main] entering a textafterYear_XPATH Element 3 value
+2021-03-21 11:56:36,865 INFO b.TestBase [main] entering a texttaxRate_XPATH Element 15 value
+2021-03-21 11:56:36,992 INFO b.TestBase [main] entering a textinfilationRate_XPATH Element 2.25 value
+2021-03-21 11:56:37,555 INFO b.TestBase [main] clicking calculateButton_XPATH Element
+2021-03-21 11:56:39,556 INFO b.TestBase [main] Sleep method applied pausing the execution......
+2021-03-21 12:05:11,032 INFO b.TestBase [main] Begin Execution testCase
+2021-03-21 12:05:11,036 INFO b.TestBase [main] Config file Found successfully 
+2021-03-21 12:05:11,037 INFO b.TestBase [main] File load  successfully
+2021-03-21 12:05:11,037 INFO b.TestBase [main] File found properties successfully
+2021-03-21 12:05:11,037 INFO b.TestBase [main] Obj Repo file loaded successfully
+2021-03-21 12:05:12,787 INFO b.TestBase [main] Browser initialized: CHROME
+2021-03-21 12:05:14,832 INFO b.TestBase [main] Navigated to :HTTPS://WWW.CALCULATOR.NET
+2021-03-21 12:05:17,042 ERROR b.TestBase [main] Error while clicking interestCalculator_XPATH Element
+2021-03-21 12:05:17,058 INFO b.TestBase [main] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MRB', ip: '10.0.0.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\birr_\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50882}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3784a6fddadb7fe6b0edecacf6c46ac5
+2021-03-21 12:05:17,058 ERROR b.TestBase [main] Error while getting page title
